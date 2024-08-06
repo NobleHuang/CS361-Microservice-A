@@ -3,10 +3,10 @@ from tkinter import messagebox
 import hashlib
 import zmq
 import os
-from ctypes import windll as ctypes_windll
+# from ctypes import windll as ctypes_windll
 
 # Make it high-res, even in Windows 10 or above
-ctypes_windll.shcore.SetProcessDpiAwareness(1)
+# ctypes_windll.shcore.SetProcessDpiAwareness(1)
 
 # Function to center the window both vertically and horizontally
 def center_window(window, width, height):
