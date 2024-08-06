@@ -12,7 +12,6 @@ To request data from the microservice, you are required to use the `Signup` and 
 >>> python Signup-ZeroMQ.py
 Enter new username: test
 Enter new password: 1234
-Signup successful!
 ```
 
 #### Login
@@ -21,7 +20,6 @@ Signup successful!
 >>> python Signup-ZeroMQ.py
 Enter username: test
 Enter password: 1234
-Login successful!
 ```
 
 #### Receiving Data
