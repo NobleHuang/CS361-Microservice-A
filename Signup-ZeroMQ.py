@@ -1,6 +1,6 @@
 # Make it high-res, even in Windows 10 or above
-from ctypes import windll as ctypes_windll
-ctypes_windll.shcore.SetProcessDpiAwareness(1)
+#from ctypes import windll as ctypes_windll
+#ctypes_windll.shcore.SetProcessDpiAwareness(1)
 
 import tkinter as tk
 from tkinter import messagebox
