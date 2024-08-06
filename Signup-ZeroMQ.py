@@ -87,13 +87,13 @@ windowHeader.grid(row=0, column=0, padx=10, pady=10, sticky='nsew')
 # Username label and entry
 label_username = tk.Label(root, text='Username:', bg='#FFFFFF', font='Arial 12')
 label_username.grid(row=1, column=0, padx=10, pady=10)
-entry_username = tk.Entry(root, bg='#FFFFFF')
+entry_username = tk.Entry(root, bg='#FFFFFF', font='Arial 12')
 entry_username.grid(row=1, column=1, padx=10, pady=10)
 
 # Password label and entry
 label_password = tk.Label(root, text='Password:', bg='#FFFFFF', font='Arial 12')
 label_password.grid(row=2, column=0, padx=10, pady=10)
-entry_password = tk.Entry(root, show='*', bg='#FFFFFF')
+entry_password = tk.Entry(root, show='*', bg='#FFFFFF', font='Arial 12')
 entry_password.grid(row=2, column=1, padx=10, pady=10)
 
 # Signup button
