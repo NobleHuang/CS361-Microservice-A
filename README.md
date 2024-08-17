@@ -38,7 +38,7 @@ Login successful!
 ```
 
 ## UML Sequence Diagrams
-![CS 361 Microservice A](https://raw.githubusercontent.com/NobleHuang/CS361-Microservice-A/main/UML-seq-diagram.jpg)
+![CS 361 Microservice A](https://raw.githubusercontent.com/NobleHuang/CS361-Microservice-A/main/UML-seq-diagram.png)
 
 ## Files
 Signup-ZeroMQ.py: Handles user signup.
