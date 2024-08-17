@@ -53,8 +53,7 @@ B. Almost done, perhaps still under development
 C. The server appears to start with only single user registration and end with only single user login
 
 D. They should get my code from my GitHub repository, which is as follows: https://github.com/NobleHuang/CS361-Microservice-ALinks to an external site.
-
-     They should run my code locally, meaning it is not hosted somewhere else.
+   They should run my code locally, meaning it is not hosted somewhere else.
 
 E. They can contact me to ask for help.
 
