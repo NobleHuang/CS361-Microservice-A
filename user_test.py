@@ -38,15 +38,12 @@ def login(username, password):
     receive_file('users.txt')
     load_users('users.txt')
 
-    username = input('Enter username: ')
-    password = pwinput.pwinput(prompt='Enter password: ')
-
     if check_user(username, password):
         print('Login successful!')
     else:
         print('Login failed!')
 
 if __name__ == '__main__':
-    username = input('Enter new username: ')
-    password = pwinput.pwinput(prompt='Enter new password: ')
+    username = input('Enter username: ')
+    password = pwinput.pwinput(prompt='Enter password: ')
     login(username, password)
