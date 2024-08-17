@@ -45,11 +45,19 @@ Signup-ZeroMQ.py: Handles user signup.
 Login-ZeroMQ.py: Handles user login.
 
 # Mitigation Plan
+
 A. Rebecca, Frank, and James
+
 B. Almost done, perhaps still under development
+
 C. The server appears to start with only single user registration and end with only single user login
+
 D. They should get my code from my GitHub repository, which is as follows: https://github.com/NobleHuang/CS361-Microservice-ALinks to an external site.
+
      They should run my code locally, meaning it is not hosted somewhere else.
+
 E. They can contact me to ask for help.
+
 F. They can contact me at any time, especially when errors come up.
+
 G. The real problem is still surrounding server starts and ends. It is a little strange to only revolve around one user instead of many.
